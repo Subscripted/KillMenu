@@ -1,0 +1,7 @@
+name: InventoryFramework
+version: '1'
+main: dev.subscripted.inventoryframework.Framework
+api-version: '1.20'
+commands:
+  suicide:
+  killplayer:
